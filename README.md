@@ -1,4 +1,4 @@
-# gitHub-Profiles
+# github-profiles
 
 ## Tech Stack = 
 
